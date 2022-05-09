@@ -1,2 +1,3 @@
 # glaccy
-верстка сайта Glaccy (наставничество на html academy)
+
+demo - https://shamilfrontend.github.io/glaccy/
